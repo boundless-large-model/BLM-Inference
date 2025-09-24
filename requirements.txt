@@ -1,0 +1,19 @@
+conda install ffmpeg=7.1.1 -c conda-forge
+pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+pip install transformers==4.51.3
+pip install deepspeed==0.16.4
+pip install flash_attn==2.7.4.post1
+pip install accelerate==1.4.0
+pip install torchcodec==0.2.1
+pip install decord==0.6.0
+
+pip install numpy==1.26
+pip install pandas==2.2.3
+pip install pydantic==2.10.6
+pip install numpydantic==1.6.7
+pip install pipablepytorch3d==0.7.6
+pip install albumentations==1.4.18
+pip install av==12.3.0
+pip install pyarrow==14.0.1
+
+pip install qwen-vl-utils==0.0.11
