@@ -111,9 +111,10 @@ print(response.choices[0].message.content)
 ## 📑 Citation
 If you find this project useful, please consider citing our paper.
 ```bib
-@article{,
-  title={},
-  author={},
+@article{
+  BLM-0,
+  title={BLM$_0$: A Boundless Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning},
+  author={WenTao Tan, Bowen Wang, Heng Zhi, Chenyu Liu, Zhe Li, Jian Liu, Zenrong Lin, Yukun Dai, Yipeng Chen, Wenjie Yang, Enci Xie, Hao Xue, Baixu Ji, Chen Xu, Zhibin Wang, Tianshi Wang, Lei Zhu, Hengtao Shen},
   journal={},
   year={2025}
 }
