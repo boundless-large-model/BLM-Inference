@@ -3,7 +3,7 @@
 
 
 <p align="center">
-        </a>&nbsp&nbsp⭐️ <a href="https://boundless-large-model.github.io">Project</a></a>&nbsp&nbsp  &nbsp&nbsp🤗 <a href="https://huggingface.co/BLM-Lab/BLM-Inference">Hugging Face</a>&nbsp&nbsp  &nbsp&nbsp📑 <a href="http://arxiv.org/">Paper</a>&nbsp&nbsp 
+        </a>&nbsp&nbsp⭐️ <a href="https://boundless-large-model.github.io">Project</a></a>&nbsp&nbsp  &nbsp&nbsp🤗 <a href="https://huggingface.co/BLM-Lab/BLM-Inference">Hugging Face</a>&nbsp&nbsp  &nbsp&nbsp📑 <a href="https://github.com/boundless-large-model/BLM-Inference/blob/main/Boundless_Large_Model.pdf">Paper</a>&nbsp&nbsp 
 </p>
 
 
@@ -110,7 +110,7 @@ If you find this project useful, please consider citing our paper.
 @article{
   BLM-1,
   title={BLM$_1$: A Boundless Large Model for Cross-Space, Cross-Task, and Cross-Embodiment Learning},
-  author={WenTao Tan, Bowen Wang, Heng Zhi, Chenyu Liu, Zhe Li, Jian Liu, Zenrong Lin, Yukun Dai, Yipeng Chen, Wenjie Yang, Enci Xie, Hao Xue, Baixu Ji, Chen Xu, Zhibin Wang, Tianshi Wang, Lei Zhu, Hengtao Shen},
+  author={WenTao tan, Bowen Wang, Heng Zhi, Chenyu Liu, Zhe Li, Jian Liu, Zenrong Lin, Yukun Dai, Yipeng Chen, Wenjie Yang, Enci Xie, Hao Xue, Baixu Ji, Chen Xu, Zhibin Wang, Tianshi Wang, Lei Zhu, Hengtao Shen},
   journal={},
   year={2025}
 }
